@@ -11,6 +11,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class NanaController {
 
     @GetMapping("/hello")
-    public String hello(){return "Love Nana ♥︎ " ;}
+    public String hello(){return "[ Love Nana ♥︎ ]" ;}
 
 }
